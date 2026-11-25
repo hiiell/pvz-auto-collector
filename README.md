@@ -23,4 +23,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤ by [hilalunivers08](https://github.com/hilalunivers08) and [Antigravity](https://antigravity.google) (v1.5.15)
+Made with ❤ by [hilalunivers08](https://github.com/hiiell) and [Antigravity](https://antigravity.google) (v1.5.15)
